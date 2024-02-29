@@ -37,6 +37,11 @@
     </tbody>
 </table>
 
+## ¿Necesitas algo?
+- ¡Siempre estoy abierto a comisiones o preguntas! Si necesita algo, envíe un correo electrónico.
+
+<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=dioverdm&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&hide=stars" />
+
 <h3>Donde encontrarme</h3>
 <p><a href="https://github.com/dioverdm" target="_blank">
         <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
