@@ -56,24 +56,16 @@
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/peterhanania/discord-package"><b>Discord Package</b></a></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/peterhanania/discord-package?style=flat-square&labelColor=343b41" /></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/peterhanania/discord-package?style=flat-square&labelColor=343b41" /></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/peterhanania/discord-package?style=flat-square&labelColor=343b41" /></td>
-            <!--td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/peterhanania/discord-package?style=flat-square&labelColor=343b41" /></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/peterhanania/pogy"><b>Pogy [outdated]</b></a></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/peterhanania/pogy?style=flat-square&labelColor=343b41" /></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/peterhanania/pogy?style=flat-square&labelColor=343b41" /></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/peterhanania/pogy?style=flat-square&labelColor=343b41" /></td>
-            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/peterhanania/pogy?style=flat-square&labelColor=343b41" /></td-->
+            <td><a href="https://github.com/dioverdm/Animated-profile-for-discord-bot"><b>Perfil Animado para bots</b></a></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/dioverdm/Animated-profile-for-discord-bot?style=flat-square&labelColor=343b41" /></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/dioverdm/Animated-profile-for-discord-bot?style=flat-square&labelColor=343b41" /></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/dioverdm/Animated-profile-for-discord-bot?style=flat-square&labelColor=343b41" /></td>
         </tr>
     </tbody>
 </table>
 
 <h3>Donde encontrarme</h3>
-<p><a href="https://github.com/peterhanania" target="_blank">
+<p><a href="https://github.com/dioverdm" target="_blank">
         <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/dioverdm" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
