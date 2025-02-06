@@ -48,7 +48,7 @@
         <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/dioverdm" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:dioverrdm@gmail.com" target="_blank">
+    <a href="mailto:hola@dioverdm.com" target="_blank">
         <img alt="Email" src="https://img.shields.io/badge/email-%23333.svg?&style=for-the-badge&logo=mail.ru&logoColor=white" /></a>
     <a href="https://discord.com/users/652555508246511647" target="_blank">
         <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
